@@ -1,0 +1,11 @@
+[36m[2023-02-15 20:52:06.014] Test: Verbose: This is a verbose message
+[0m[2023-02-15 20:52:06.015] Test: Info: This is an info message
+[35m[2023-02-15 20:52:06.015] Test: Debug: This is a debug message
+[0m[33m[2023-02-15 20:52:06.016] Test: Warning: This is a warning message
+[0m[31m[2023-02-15 20:52:06.016] Test: Error: This is an error message
+[0m[36m[2023-02-15 20:58:55.751] Test: Verbose: This is a verbose message
+[0m[2023-02-15 20:58:55.751] Test: Info: This is an info message
+[35m[2023-02-15 20:58:55.752] Test: Debug: This is a debug message
+[0m[33m[2023-02-15 20:58:55.752] Test: Warning: This is a warning message
+[0m[31m[2023-02-15 20:58:55.752] Test: Error: This is an error message
+[0m
